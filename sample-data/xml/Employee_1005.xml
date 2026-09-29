@@ -1,0 +1,343 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Employee>
+  <Demographics>
+    <EmployeeNo>1005</EmployeeNo>
+    <EmployeeCode>EMP-1005</EmployeeCode>
+    <Active>1</Active>
+    <Title>Mr</Title>
+    <FirstName>Wei</FirstName>
+    <MiddleName />
+    <LastName>Chen</LastName>
+    <DateOfBirth>1993-01-19</DateOfBirth>
+    <Gender>Male</Gender>
+    <MaritalStatus>Single</MaritalStatus>
+    <Nationality>Singaporean</Nationality>
+    <NationalID>NID965841450</NationalID>
+    <PassportNo />
+    <TaxID>TAX72143747</TaxID>
+    <BloodGroup>B+</BloodGroup>
+    <Email>wei.chen@example.com</Email>
+    <PersonalEmail>wei1005@mail.example.org</PersonalEmail>
+    <WorkPhone>+00 555 6710</WorkPhone>
+    <Mobile>+00 7877 925422</Mobile>
+    <HireDate>2022-08-01</HireDate>
+    <ProbationEndDate>2022-10-30</ProbationEndDate>
+    <TerminationDate />
+    <EmploymentType>Full-time</EmploymentType>
+    <Department>Finance</Department>
+    <JobTitle>Financial Analyst</JobTitle>
+    <Grade>F3</Grade>
+    <ManagerEmployeeNo>1001</ManagerEmployeeNo>
+    <WorkLocation>Singapore</WorkLocation>
+    <Status>Active</Status>
+  </Demographics>
+  <Address>
+    <AddressType>Home</AddressType>
+    <Line1>90 Oak Street</Line1>
+    <Line2>Unit 38</Line2>
+    <City>Singapore</City>
+    <State />
+    <PostalCode>018958</PostalCode>
+    <Country>Singapore</Country>
+    <IsPrimary>1</IsPrimary>
+  </Address>
+  <EmergencyContact>
+    <Name>Sam Chen</Name>
+    <Relationship>Friend</Relationship>
+    <Phone1>+00 555 3090</Phone1>
+    <Phone2 />
+    <Email>contact10050@mail.example.org</Email>
+    <Address>Singapore, Singapore</Address>
+  </EmergencyContact>
+  <Qualification>
+    <Degree>Bachelor of Arts</Degree>
+    <FieldOfStudy>Communications</FieldOfStudy>
+    <Institution>University of Toronto</Institution>
+    <YearCompleted>2015</YearCompleted>
+    <GradeOrScore>First Class</GradeOrScore>
+  </Qualification>
+  <Qualification>
+    <Degree>Bachelor of Arts</Degree>
+    <FieldOfStudy>Communications</FieldOfStudy>
+    <Institution>University of Toronto</Institution>
+    <YearCompleted>2017</YearCompleted>
+    <GradeOrScore>GPA 3.6</GradeOrScore>
+  </Qualification>
+  <WorkHistory>
+    <Company>Stark Logistics</Company>
+    <JobTitle>Analyst</JobTitle>
+    <StartDate>2019-07-22</StartDate>
+    <EndDate>2022-06-14</EndDate>
+    <Responsibilities>Delivered finance objectives, worked with cross-functional teams &amp; reported to senior management.</Responsibilities>
+    <ReasonForLeaving>Relocation</ReasonForLeaving>
+  </WorkHistory>
+  <WorkHistory>
+    <Company>Globex Consulting</Company>
+    <JobTitle>Junior Analyst</JobTitle>
+    <StartDate>2017-02-04</StartDate>
+    <EndDate>2019-05-24</EndDate>
+    <Responsibilities>Delivered finance objectives, worked with cross-functional teams &amp; reported to senior management.</Responsibilities>
+    <ReasonForLeaving>Restructure</ReasonForLeaving>
+  </WorkHistory>
+  <Skill>
+    <SkillName>Power BI</SkillName>
+    <Category>Reporting</Category>
+    <ProficiencyLevel>Advanced</ProficiencyLevel>
+    <YearsExperience>8.0</YearsExperience>
+  </Skill>
+  <Skill>
+    <SkillName>IFRS</SkillName>
+    <Category>Compliance</Category>
+    <ProficiencyLevel>Advanced</ProficiencyLevel>
+    <YearsExperience>1.2</YearsExperience>
+  </Skill>
+  <Skill>
+    <SkillName>Budgeting</SkillName>
+    <Category>Planning</Category>
+    <ProficiencyLevel>Expert</ProficiencyLevel>
+    <YearsExperience>4.6</YearsExperience>
+  </Skill>
+  <Certification>
+    <CertificationName>ITIL 4 Foundation</CertificationName>
+    <IssuingBody>Axelos</IssuingBody>
+    <IssueDate>2026-03-19</IssueDate>
+    <ExpiryDate>2029-03-18</ExpiryDate>
+    <CredentialID>CRD-811146</CredentialID>
+  </Certification>
+  <Certification>
+    <CertificationName>Microsoft Certified: Azure Administrator</CertificationName>
+    <IssuingBody>Microsoft</IssuingBody>
+    <IssueDate>2026-06-17</IssueDate>
+    <ExpiryDate>2029-06-16</ExpiryDate>
+    <CredentialID>CRD-320109</CredentialID>
+  </Certification>
+  <Certification>
+    <CertificationName>Google Analytics Certification</CertificationName>
+    <IssuingBody>Google</IssuingBody>
+    <IssueDate>2025-06-04</IssueDate>
+    <ExpiryDate>2028-06-03</ExpiryDate>
+    <CredentialID>CRD-469266</CredentialID>
+  </Certification>
+  <SalaryHistory>
+    <EffectiveDate>2022-08-01</EffectiveDate>
+    <BaseSalary>62320.00</BaseSalary>
+    <Currency>SGD</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus />
+    <Reason>Starting salary</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2023-07-01</EffectiveDate>
+    <BaseSalary>66832.67</BaseSalary>
+    <Currency>SGD</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>3341.63</Bonus>
+    <Reason>Annual review</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2024-07-01</EffectiveDate>
+    <BaseSalary>72589.94</BaseSalary>
+    <Currency>SGD</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>3629.50</Bonus>
+    <Reason>Market adjustment</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2025-07-01</EffectiveDate>
+    <BaseSalary>76121.33</BaseSalary>
+    <Currency>SGD</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>3806.07</Bonus>
+    <Reason>Promotion</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2026-07-01</EffectiveDate>
+    <BaseSalary>81293.48</BaseSalary>
+    <Currency>SGD</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>4064.67</Bonus>
+    <Reason>Promotion</Reason>
+  </SalaryHistory>
+  <Leave>
+    <LeaveType>Unpaid</LeaveType>
+    <StartDate>2024-02-08</StartDate>
+    <EndDate>2024-02-09</EndDate>
+    <Days>2.0</Days>
+    <Status>Pending</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Reason>Personal travel</Reason>
+  </Leave>
+  <Leave>
+    <LeaveType>Sick</LeaveType>
+    <StartDate>2024-05-03</StartDate>
+    <EndDate>2024-05-05</EndDate>
+    <Days>3.0</Days>
+    <Status>Approved</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Reason>Medical appointment</Reason>
+  </Leave>
+  <Leave>
+    <LeaveType>Bereavement</LeaveType>
+    <StartDate>2024-01-19</StartDate>
+    <EndDate>2024-01-20</EndDate>
+    <Days>2.0</Days>
+    <Status>Approved</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Reason>Family matter</Reason>
+  </Leave>
+  <Leave>
+    <LeaveType>Sick</LeaveType>
+    <StartDate>2025-06-11</StartDate>
+    <EndDate>2025-06-13</EndDate>
+    <Days>3.0</Days>
+    <Status>Pending</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Reason>Flu</Reason>
+  </Leave>
+  <Leave>
+    <LeaveType>Annual</LeaveType>
+    <StartDate>2025-10-07</StartDate>
+    <EndDate>2025-10-09</EndDate>
+    <Days>3.0</Days>
+    <Status>Approved</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Reason>Family holiday</Reason>
+  </Leave>
+  <PerformanceReview>
+    <ReviewPeriod>FY2023</ReviewPeriod>
+    <ReviewDate>2023-12-10</ReviewDate>
+    <Reviewer>Amelia Hart</Reviewer>
+    <Rating>4.0</Rating>
+    <Goals>Improve process cycle time by 15%</Goals>
+    <Comments>Consistently exceeds expectations and collaborates well.</Comments>
+  </PerformanceReview>
+  <PerformanceReview>
+    <ReviewPeriod>FY2024</ReviewPeriod>
+    <ReviewDate>2024-12-10</ReviewDate>
+    <Reviewer>Amelia Hart</Reviewer>
+    <Rating>5.0</Rating>
+    <Goals>Improve process cycle time by 15%</Goals>
+    <Comments>Strong technical depth and reliable delivery.</Comments>
+  </PerformanceReview>
+  <PerformanceReview>
+    <ReviewPeriod>FY2025</ReviewPeriod>
+    <ReviewDate>2025-12-10</ReviewDate>
+    <Reviewer>Amelia Hart</Reviewer>
+    <Rating>4.9</Rating>
+    <Goals>Reduce ticket backlog by 20%</Goals>
+    <Comments>Solid performance; needs to delegate more.</Comments>
+  </PerformanceReview>
+  <Training>
+    <CourseName>Effective Communication</CourseName>
+    <Provider>Coursera</Provider>
+    <CompletedDate>2025-10-06</CompletedDate>
+    <DurationHours>8.0</DurationHours>
+    <Cost>320.00</Cost>
+    <Result>Attended</Result>
+  </Training>
+  <Training>
+    <CourseName>Advanced T-SQL Performance Tuning</CourseName>
+    <Provider>Pluralsight</Provider>
+    <CompletedDate>2025-07-04</CompletedDate>
+    <DurationHours>16.0</DurationHours>
+    <Cost>240.00</Cost>
+    <Result>Passed</Result>
+  </Training>
+  <Asset>
+    <AssetTag>AST-1005-1</AssetTag>
+    <AssetType>Mobile Phone</AssetType>
+    <Description>Company smartphone</Description>
+    <IssuedDate>2022-08-01</IssuedDate>
+    <ReturnedDate />
+  </Asset>
+  <Timesheet>
+    <WeekStartDate>2026-06-01</WeekStartDate>
+    <Status>Approved</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Entry>
+      <WorkDate>2026-06-01</WorkDate>
+      <ProjectCode>PRJ-1002</ProjectCode>
+      <ProjectName>Data Warehouse Migration</ProjectName>
+      <Task>Training delivery</Task>
+      <Hours>8.50</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-02</WorkDate>
+      <ProjectCode>PRJ-1002</ProjectCode>
+      <ProjectName>Data Warehouse Migration</ProjectName>
+      <Task>Data analysis</Task>
+      <Hours>7.50</Hours>
+      <Notes />
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-03</WorkDate>
+      <ProjectCode>PRJ-1003</ProjectCode>
+      <ProjectName>HR Self-Service Portal</ProjectName>
+      <Task>Planning</Task>
+      <Hours>7.50</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-04</WorkDate>
+      <ProjectCode>PRJ-1005</ProjectCode>
+      <ProjectName>Compliance Audit 2026</ProjectName>
+      <Task>Data analysis</Task>
+      <Hours>7.50</Hours>
+      <Notes />
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-05</WorkDate>
+      <ProjectCode>PRJ-1004</ProjectCode>
+      <ProjectName>Mobile App v2</ProjectName>
+      <Task>Planning</Task>
+      <Hours>7.50</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+  </Timesheet>
+  <Timesheet>
+    <WeekStartDate>2026-06-08</WeekStartDate>
+    <Status>Approved</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Entry>
+      <WorkDate>2026-06-08</WorkDate>
+      <ProjectCode>PRJ-9000</ProjectCode>
+      <ProjectName>Internal / Administration</ProjectName>
+      <Task>Data analysis</Task>
+      <Hours>7.00</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-09</WorkDate>
+      <ProjectCode>PRJ-1001</ProjectCode>
+      <ProjectName>Customer Portal Rebuild</ProjectName>
+      <Task>Data analysis</Task>
+      <Hours>7.50</Hours>
+      <Notes />
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-10</WorkDate>
+      <ProjectCode>PRJ-1003</ProjectCode>
+      <ProjectName>HR Self-Service Portal</ProjectName>
+      <Task>Data analysis</Task>
+      <Hours>7.00</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-11</WorkDate>
+      <ProjectCode>PRJ-1003</ProjectCode>
+      <ProjectName>HR Self-Service Portal</ProjectName>
+      <Task>Testing</Task>
+      <Hours>8.50</Hours>
+      <Notes />
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-12</WorkDate>
+      <ProjectCode>PRJ-9000</ProjectCode>
+      <ProjectName>Internal / Administration</ProjectName>
+      <Task>Support tickets</Task>
+      <Hours>7.50</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+  </Timesheet>
+</Employee>

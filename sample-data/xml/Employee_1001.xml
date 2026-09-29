@@ -1,0 +1,387 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Employee>
+  <Demographics>
+    <EmployeeNo>1001</EmployeeNo>
+    <EmployeeCode>EMP-1001</EmployeeCode>
+    <Active>1</Active>
+    <Title>Ms</Title>
+    <FirstName>Amelia</FirstName>
+    <MiddleName>Grace</MiddleName>
+    <LastName>Hart</LastName>
+    <DateOfBirth>1978-03-14</DateOfBirth>
+    <Gender>Female</Gender>
+    <MaritalStatus>Married</MaritalStatus>
+    <Nationality>British</Nationality>
+    <NationalID>NID227904006</NationalID>
+    <PassportNo>P6360060</PassportNo>
+    <TaxID>TAX77446522</TaxID>
+    <BloodGroup>O-</BloodGroup>
+    <Email>amelia.hart@example.com</Email>
+    <PersonalEmail>amelia1001@mail.example.org</PersonalEmail>
+    <WorkPhone>+00 555 2681</WorkPhone>
+    <Mobile>+00 7328 730226</Mobile>
+    <HireDate>2016-02-01</HireDate>
+    <ProbationEndDate>2016-05-01</ProbationEndDate>
+    <TerminationDate />
+    <EmploymentType>Full-time</EmploymentType>
+    <Department>Executive</Department>
+    <JobTitle>Managing Director</JobTitle>
+    <Grade>E9</Grade>
+    <ManagerEmployeeNo />
+    <WorkLocation>London</WorkLocation>
+    <Status>Active</Status>
+  </Demographics>
+  <Address>
+    <AddressType>Home</AddressType>
+    <Line1>160 Harbour Street</Line1>
+    <Line2>Unit 27</Line2>
+    <City>London</City>
+    <State>England</State>
+    <PostalCode>EC183</PostalCode>
+    <Country>United Kingdom</Country>
+    <IsPrimary>1</IsPrimary>
+  </Address>
+  <EmergencyContact>
+    <Name>Morgan Hart</Name>
+    <Relationship>Friend</Relationship>
+    <Phone1>+00 555 4931</Phone1>
+    <Phone2 />
+    <Email>contact10010@mail.example.org</Email>
+    <Address>London, United Kingdom</Address>
+  </EmergencyContact>
+  <EmergencyContact>
+    <Name>Alex Hart</Name>
+    <Relationship>Spouse</Relationship>
+    <Phone1>+00 555 2814</Phone1>
+    <Phone2 />
+    <Email>contact10011@mail.example.org</Email>
+    <Address>London, United Kingdom</Address>
+  </EmergencyContact>
+  <Qualification>
+    <Degree>Bachelor of Science</Degree>
+    <FieldOfStudy>Computer Science</FieldOfStudy>
+    <Institution>National University of Singapore</Institution>
+    <YearCompleted>2000</YearCompleted>
+    <GradeOrScore>First Class</GradeOrScore>
+  </Qualification>
+  <Qualification>
+    <Degree>Diploma</Degree>
+    <FieldOfStudy>Business Administration</FieldOfStudy>
+    <Institution>National University of Singapore</Institution>
+    <YearCompleted>2002</YearCompleted>
+    <GradeOrScore>Distinction</GradeOrScore>
+  </Qualification>
+  <WorkHistory>
+    <Company>Initech Solutions</Company>
+    <JobTitle>Director</JobTitle>
+    <StartDate>2013-10-17</StartDate>
+    <EndDate>2015-11-13</EndDate>
+    <Responsibilities>Delivered executive objectives, worked with cross-functional teams &amp; reported to senior management.</Responsibilities>
+    <ReasonForLeaving>Relocation</ReasonForLeaving>
+  </WorkHistory>
+  <Skill>
+    <SkillName>Stakeholder Management</SkillName>
+    <Category>Leadership</Category>
+    <ProficiencyLevel>Intermediate</ProficiencyLevel>
+    <YearsExperience>7.1</YearsExperience>
+  </Skill>
+  <Skill>
+    <SkillName>Strategy</SkillName>
+    <Category>Leadership</Category>
+    <ProficiencyLevel>Advanced</ProficiencyLevel>
+    <YearsExperience>4.2</YearsExperience>
+  </Skill>
+  <Skill>
+    <SkillName>Budgeting</SkillName>
+    <Category>Planning</Category>
+    <ProficiencyLevel>Intermediate</ProficiencyLevel>
+    <YearsExperience>10.6</YearsExperience>
+  </Skill>
+  <Certification>
+    <CertificationName>AWS Certified Solutions Architect</CertificationName>
+    <IssuingBody>Amazon Web Services</IssuingBody>
+    <IssueDate>2022-04-28</IssueDate>
+    <ExpiryDate>2025-04-27</ExpiryDate>
+    <CredentialID>CRD-583469</CredentialID>
+  </Certification>
+  <Certification>
+    <CertificationName>ITIL 4 Foundation</CertificationName>
+    <IssuingBody>Axelos</IssuingBody>
+    <IssueDate>2023-08-21</IssueDate>
+    <ExpiryDate>2026-08-20</ExpiryDate>
+    <CredentialID>CRD-195089</CredentialID>
+  </Certification>
+  <SalaryHistory>
+    <EffectiveDate>2016-02-01</EffectiveDate>
+    <BaseSalary>151700.00</BaseSalary>
+    <Currency>GBP</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus />
+    <Reason>Starting salary</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2017-07-01</EffectiveDate>
+    <BaseSalary>160792.70</BaseSalary>
+    <Currency>GBP</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>8039.63</Bonus>
+    <Reason>Market adjustment</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2018-07-01</EffectiveDate>
+    <BaseSalary>171681.97</BaseSalary>
+    <Currency>GBP</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>8584.10</Bonus>
+    <Reason>Annual review</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2019-07-01</EffectiveDate>
+    <BaseSalary>182201.30</BaseSalary>
+    <Currency>GBP</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>9110.06</Bonus>
+    <Reason>Market adjustment</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2020-07-01</EffectiveDate>
+    <BaseSalary>197464.60</BaseSalary>
+    <Currency>GBP</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>9873.23</Bonus>
+    <Reason>Promotion</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2021-07-01</EffectiveDate>
+    <BaseSalary>214414.52</BaseSalary>
+    <Currency>GBP</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>10720.73</Bonus>
+    <Reason>Promotion</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2022-07-01</EffectiveDate>
+    <BaseSalary>232044.51</BaseSalary>
+    <Currency>GBP</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>11602.23</Bonus>
+    <Reason>Market adjustment</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2023-07-01</EffectiveDate>
+    <BaseSalary>252072.66</BaseSalary>
+    <Currency>GBP</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>12603.63</Bonus>
+    <Reason>Promotion</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2024-07-01</EffectiveDate>
+    <BaseSalary>268620.59</BaseSalary>
+    <Currency>GBP</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>13431.03</Bonus>
+    <Reason>Annual review</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2025-07-01</EffectiveDate>
+    <BaseSalary>287095.19</BaseSalary>
+    <Currency>GBP</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>14354.76</Bonus>
+    <Reason>Annual review</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2026-07-01</EffectiveDate>
+    <BaseSalary>310323.09</BaseSalary>
+    <Currency>GBP</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>15516.15</Bonus>
+    <Reason>Market adjustment</Reason>
+  </SalaryHistory>
+  <Leave>
+    <LeaveType>Bereavement</LeaveType>
+    <StartDate>2025-03-15</StartDate>
+    <EndDate>2025-03-19</EndDate>
+    <Days>5.0</Days>
+    <Status>Approved</Status>
+    <ApprovedBy />
+    <Reason>Family matter</Reason>
+  </Leave>
+  <Leave>
+    <LeaveType>Study</LeaveType>
+    <StartDate>2025-05-08</StartDate>
+    <EndDate>2025-05-09</EndDate>
+    <Days>2.0</Days>
+    <Status>Approved</Status>
+    <ApprovedBy />
+    <Reason>Exam preparation</Reason>
+  </Leave>
+  <PerformanceReview>
+    <ReviewPeriod>FY2017</ReviewPeriod>
+    <ReviewDate>2017-12-10</ReviewDate>
+    <Reviewer>Board of Directors</Reviewer>
+    <Rating>4.2</Rating>
+    <Goals>Reduce ticket backlog by 20%</Goals>
+    <Comments>Great customer focus; improve documentation habits.</Comments>
+  </PerformanceReview>
+  <PerformanceReview>
+    <ReviewPeriod>FY2018</ReviewPeriod>
+    <ReviewDate>2018-12-10</ReviewDate>
+    <Reviewer>Board of Directors</Reviewer>
+    <Rating>4.4</Rating>
+    <Goals>Complete leadership training; own team OKRs</Goals>
+    <Comments>Great customer focus; improve documentation habits.</Comments>
+  </PerformanceReview>
+  <PerformanceReview>
+    <ReviewPeriod>FY2019</ReviewPeriod>
+    <ReviewDate>2019-12-10</ReviewDate>
+    <Reviewer>Board of Directors</Reviewer>
+    <Rating>4.3</Rating>
+    <Goals>Complete leadership training; own team OKRs</Goals>
+    <Comments>Great customer focus; improve documentation habits.</Comments>
+  </PerformanceReview>
+  <Training>
+    <CourseName>Agile Project Delivery</CourseName>
+    <Provider>Scrum.org</Provider>
+    <CompletedDate>2016-03-09</CompletedDate>
+    <DurationHours>16.0</DurationHours>
+    <Cost>0.00</Cost>
+    <Result>Passed</Result>
+  </Training>
+  <Training>
+    <CourseName>Leadership Essentials</CourseName>
+    <Provider>Dale Carnegie</Provider>
+    <CompletedDate>2023-06-09</CompletedDate>
+    <DurationHours>24.0</DurationHours>
+    <Cost>960.00</Cost>
+    <Result>Attended</Result>
+  </Training>
+  <Training>
+    <CourseName>Data Privacy &amp; GDPR</CourseName>
+    <Provider>Internal Academy</Provider>
+    <CompletedDate>2026-06-24</CompletedDate>
+    <DurationHours>4.0</DurationHours>
+    <Cost>160.00</Cost>
+    <Result>Passed</Result>
+  </Training>
+  <Training>
+    <CourseName>Workplace Health &amp; Safety</CourseName>
+    <Provider>Internal Academy</Provider>
+    <CompletedDate>2026-06-02</CompletedDate>
+    <DurationHours>3.0</DurationHours>
+    <Cost>45.00</Cost>
+    <Result>Passed</Result>
+  </Training>
+  <Asset>
+    <AssetTag>AST-1001-1</AssetTag>
+    <AssetType>Access Card</AssetType>
+    <Description>Building access card</Description>
+    <IssuedDate>2016-02-01</IssuedDate>
+    <ReturnedDate />
+  </Asset>
+  <Asset>
+    <AssetTag>AST-1001-2</AssetTag>
+    <AssetType>Headset</AssetType>
+    <Description>Noise-cancelling headset</Description>
+    <IssuedDate>2016-02-02</IssuedDate>
+    <ReturnedDate />
+  </Asset>
+  <Asset>
+    <AssetTag>AST-1001-3</AssetTag>
+    <AssetType>Mobile Phone</AssetType>
+    <Description>Company smartphone</Description>
+    <IssuedDate>2016-02-03</IssuedDate>
+    <ReturnedDate />
+  </Asset>
+  <Timesheet>
+    <WeekStartDate>2026-06-01</WeekStartDate>
+    <Status>Approved</Status>
+    <ApprovedBy />
+    <Entry>
+      <WorkDate>2026-06-01</WorkDate>
+      <ProjectCode>PRJ-1005</ProjectCode>
+      <ProjectName>Compliance Audit 2026</ProjectName>
+      <Task>Development</Task>
+      <Hours>7.50</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-02</WorkDate>
+      <ProjectCode>PRJ-1003</ProjectCode>
+      <ProjectName>HR Self-Service Portal</ProjectName>
+      <Task>Data analysis</Task>
+      <Hours>6.00</Hours>
+      <Notes />
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-03</WorkDate>
+      <ProjectCode>PRJ-1004</ProjectCode>
+      <ProjectName>Mobile App v2</ProjectName>
+      <Task>Training delivery</Task>
+      <Hours>7.50</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-04</WorkDate>
+      <ProjectCode>PRJ-1004</ProjectCode>
+      <ProjectName>Mobile App v2</ProjectName>
+      <Task>Stakeholder meeting</Task>
+      <Hours>8.00</Hours>
+      <Notes />
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-05</WorkDate>
+      <ProjectCode>PRJ-9000</ProjectCode>
+      <ProjectName>Internal / Administration</ProjectName>
+      <Task>Data analysis</Task>
+      <Hours>6.00</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+  </Timesheet>
+  <Timesheet>
+    <WeekStartDate>2026-06-08</WeekStartDate>
+    <Status>Submitted</Status>
+    <ApprovedBy />
+    <Entry>
+      <WorkDate>2026-06-08</WorkDate>
+      <ProjectCode>PRJ-1003</ProjectCode>
+      <ProjectName>HR Self-Service Portal</ProjectName>
+      <Task>Data analysis</Task>
+      <Hours>7.50</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-09</WorkDate>
+      <ProjectCode>PRJ-1001</ProjectCode>
+      <ProjectName>Customer Portal Rebuild</ProjectName>
+      <Task>Documentation</Task>
+      <Hours>8.00</Hours>
+      <Notes />
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-10</WorkDate>
+      <ProjectCode>PRJ-1002</ProjectCode>
+      <ProjectName>Data Warehouse Migration</ProjectName>
+      <Task>Data analysis</Task>
+      <Hours>6.00</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-11</WorkDate>
+      <ProjectCode>PRJ-1001</ProjectCode>
+      <ProjectName>Customer Portal Rebuild</ProjectName>
+      <Task>Development</Task>
+      <Hours>8.00</Hours>
+      <Notes />
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-12</WorkDate>
+      <ProjectCode>PRJ-1005</ProjectCode>
+      <ProjectName>Compliance Audit 2026</ProjectName>
+      <Task>Training delivery</Task>
+      <Hours>6.00</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+  </Timesheet>
+</Employee>

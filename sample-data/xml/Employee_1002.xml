@@ -1,0 +1,418 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Employee>
+  <Demographics>
+    <EmployeeNo>1002</EmployeeNo>
+    <EmployeeCode>EMP-1002</EmployeeCode>
+    <Active>1</Active>
+    <Title>Mr</Title>
+    <FirstName>Rahul</FirstName>
+    <MiddleName />
+    <LastName>Menon</LastName>
+    <DateOfBirth>1988-07-22</DateOfBirth>
+    <Gender>Male</Gender>
+    <MaritalStatus>Married</MaritalStatus>
+    <Nationality>Indian</Nationality>
+    <NationalID>NID755126092</NationalID>
+    <PassportNo />
+    <TaxID>TAX36681370</TaxID>
+    <BloodGroup>B+</BloodGroup>
+    <Email>rahul.menon@example.com</Email>
+    <PersonalEmail>rahul1002@mail.example.org</PersonalEmail>
+    <WorkPhone>+00 555 2979</WorkPhone>
+    <Mobile>+00 7735 146828</Mobile>
+    <HireDate>2019-06-17</HireDate>
+    <ProbationEndDate>2019-09-15</ProbationEndDate>
+    <TerminationDate />
+    <EmploymentType>Full-time</EmploymentType>
+    <Department>Engineering</Department>
+    <JobTitle>Senior Software Engineer</JobTitle>
+    <Grade>E5</Grade>
+    <ManagerEmployeeNo>1001</ManagerEmployeeNo>
+    <WorkLocation>Remote</WorkLocation>
+    <Status>Active</Status>
+  </Demographics>
+  <Address>
+    <AddressType>Home</AddressType>
+    <Line1>193 Harbour Street</Line1>
+    <Line2 />
+    <City>Lisbon</City>
+    <State />
+    <PostalCode>100044</PostalCode>
+    <Country>Portugal</Country>
+    <IsPrimary>1</IsPrimary>
+  </Address>
+  <EmergencyContact>
+    <Name>Sam Menon</Name>
+    <Relationship>Spouse</Relationship>
+    <Phone1>+00 555 6135</Phone1>
+    <Phone2 />
+    <Email>contact10020@mail.example.org</Email>
+    <Address>Lisbon, Portugal</Address>
+  </EmergencyContact>
+  <EmergencyContact>
+    <Name>Robin Menon</Name>
+    <Relationship>Friend</Relationship>
+    <Phone1>+00 555 3209</Phone1>
+    <Phone2 />
+    <Email>contact10021@mail.example.org</Email>
+    <Address>Lisbon, Portugal</Address>
+  </EmergencyContact>
+  <Dependent>
+    <Name>Noah Menon</Name>
+    <Relationship>Spouse</Relationship>
+    <DateOfBirth>2018-03-10</DateOfBirth>
+    <Gender>Female</Gender>
+    <InsuranceCovered>0</InsuranceCovered>
+  </Dependent>
+  <Dependent>
+    <Name>Kai Menon</Name>
+    <Relationship>Spouse</Relationship>
+    <DateOfBirth>2006-11-23</DateOfBirth>
+    <Gender>Male</Gender>
+    <InsuranceCovered>0</InsuranceCovered>
+  </Dependent>
+  <Dependent>
+    <Name>Noah Menon</Name>
+    <Relationship>Child</Relationship>
+    <DateOfBirth>2022-07-28</DateOfBirth>
+    <Gender>Male</Gender>
+    <InsuranceCovered>0</InsuranceCovered>
+  </Dependent>
+  <Qualification>
+    <Degree>Master of Business Administration</Degree>
+    <FieldOfStudy>Management</FieldOfStudy>
+    <Institution>University of Sydney</Institution>
+    <YearCompleted>2010</YearCompleted>
+    <GradeOrScore>GPA 3.8</GradeOrScore>
+  </Qualification>
+  <Qualification>
+    <Degree>Bachelor of Commerce</Degree>
+    <FieldOfStudy>Accounting</FieldOfStudy>
+    <Institution>National University of Singapore</Institution>
+    <YearCompleted>2012</YearCompleted>
+    <GradeOrScore>First Class</GradeOrScore>
+  </Qualification>
+  <WorkHistory>
+    <Company>Northwind Systems</Company>
+    <JobTitle>Software Engineer</JobTitle>
+    <StartDate>2017-09-01</StartDate>
+    <EndDate>2019-03-30</EndDate>
+    <Responsibilities>Delivered engineering objectives, worked with cross-functional teams &amp; reported to senior management.</Responsibilities>
+    <ReasonForLeaving>Relocation</ReasonForLeaving>
+  </WorkHistory>
+  <Skill>
+    <SkillName>Python</SkillName>
+    <Category>Programming</Category>
+    <ProficiencyLevel>Expert</ProficiencyLevel>
+    <YearsExperience>4.3</YearsExperience>
+  </Skill>
+  <Skill>
+    <SkillName>C#</SkillName>
+    <Category>Programming</Category>
+    <ProficiencyLevel>Advanced</ProficiencyLevel>
+    <YearsExperience>11.1</YearsExperience>
+  </Skill>
+  <Skill>
+    <SkillName>REST APIs</SkillName>
+    <Category>Architecture</Category>
+    <ProficiencyLevel>Advanced</ProficiencyLevel>
+    <YearsExperience>11.4</YearsExperience>
+  </Skill>
+  <Skill>
+    <SkillName>Azure</SkillName>
+    <Category>Cloud</Category>
+    <ProficiencyLevel>Expert</ProficiencyLevel>
+    <YearsExperience>7.8</YearsExperience>
+  </Skill>
+  <Skill>
+    <SkillName>T-SQL</SkillName>
+    <Category>Database</Category>
+    <ProficiencyLevel>Intermediate</ProficiencyLevel>
+    <YearsExperience>2.7</YearsExperience>
+  </Skill>
+  <Certification>
+    <CertificationName>Certified Scrum Master</CertificationName>
+    <IssuingBody>Scrum Alliance</IssuingBody>
+    <IssueDate>2024-07-13</IssueDate>
+    <ExpiryDate>2027-07-13</ExpiryDate>
+    <CredentialID>CRD-452760</CredentialID>
+  </Certification>
+  <SalaryHistory>
+    <EffectiveDate>2019-06-17</EffectiveDate>
+    <BaseSalary>96760.00</BaseSalary>
+    <Currency>USD</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus />
+    <Reason>Starting salary</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2020-07-01</EffectiveDate>
+    <BaseSalary>102850.16</BaseSalary>
+    <Currency>USD</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>5142.51</Bonus>
+    <Reason>Annual review</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2021-07-01</EffectiveDate>
+    <BaseSalary>110453.35</BaseSalary>
+    <Currency>USD</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>5522.67</Bonus>
+    <Reason>Annual review</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2022-07-01</EffectiveDate>
+    <BaseSalary>117894.33</BaseSalary>
+    <Currency>USD</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>5894.72</Bonus>
+    <Reason>Annual review</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2023-07-01</EffectiveDate>
+    <BaseSalary>123762.49</BaseSalary>
+    <Currency>USD</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>6188.12</Bonus>
+    <Reason>Annual review</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2024-07-01</EffectiveDate>
+    <BaseSalary>128992.92</BaseSalary>
+    <Currency>USD</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>6449.65</Bonus>
+    <Reason>Market adjustment</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2025-07-01</EffectiveDate>
+    <BaseSalary>140156.98</BaseSalary>
+    <Currency>USD</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>7007.85</Bonus>
+    <Reason>Annual review</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2026-07-01</EffectiveDate>
+    <BaseSalary>148929.55</BaseSalary>
+    <Currency>USD</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>7446.48</Bonus>
+    <Reason>Market adjustment</Reason>
+  </SalaryHistory>
+  <Leave>
+    <LeaveType>Annual</LeaveType>
+    <StartDate>2025-06-26</StartDate>
+    <EndDate>2025-06-27</EndDate>
+    <Days>2.0</Days>
+    <Status>Pending</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Reason>Long weekend</Reason>
+  </Leave>
+  <Leave>
+    <LeaveType>Bereavement</LeaveType>
+    <StartDate>2026-07-05</StartDate>
+    <EndDate>2026-07-06</EndDate>
+    <Days>2.0</Days>
+    <Status>Approved</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Reason>Family matter</Reason>
+  </Leave>
+  <PerformanceReview>
+    <ReviewPeriod>FY2020</ReviewPeriod>
+    <ReviewDate>2020-12-10</ReviewDate>
+    <Reviewer>Amelia Hart</Reviewer>
+    <Rating>4.3</Rating>
+    <Goals>Improve process cycle time by 15%</Goals>
+    <Comments>Great customer focus; improve documentation habits.</Comments>
+  </PerformanceReview>
+  <PerformanceReview>
+    <ReviewPeriod>FY2021</ReviewPeriod>
+    <ReviewDate>2021-12-10</ReviewDate>
+    <Reviewer>Amelia Hart</Reviewer>
+    <Rating>3.4</Rating>
+    <Goals>Reduce ticket backlog by 20%</Goals>
+    <Comments>Consistently exceeds expectations and collaborates well.</Comments>
+  </PerformanceReview>
+  <PerformanceReview>
+    <ReviewPeriod>FY2022</ReviewPeriod>
+    <ReviewDate>2022-12-10</ReviewDate>
+    <Reviewer>Amelia Hart</Reviewer>
+    <Rating>3.6</Rating>
+    <Goals>Improve process cycle time by 15%</Goals>
+    <Comments>Strong technical depth and reliable delivery.</Comments>
+  </PerformanceReview>
+  <Training>
+    <CourseName>Effective Communication</CourseName>
+    <Provider>Coursera</Provider>
+    <CompletedDate>2025-01-14</CompletedDate>
+    <DurationHours>8.0</DurationHours>
+    <Cost>320.00</Cost>
+    <Result>Passed</Result>
+  </Training>
+  <Training>
+    <CourseName>Cloud Fundamentals</CourseName>
+    <Provider>Microsoft Learn</Provider>
+    <CompletedDate>2024-09-13</CompletedDate>
+    <DurationHours>12.0</DurationHours>
+    <Cost>180.00</Cost>
+    <Result>Passed</Result>
+  </Training>
+  <Asset>
+    <AssetTag>AST-1002-1</AssetTag>
+    <AssetType>Access Card</AssetType>
+    <Description>Building access card</Description>
+    <IssuedDate>2019-06-17</IssuedDate>
+    <ReturnedDate />
+  </Asset>
+  <Asset>
+    <AssetTag>AST-1002-2</AssetTag>
+    <AssetType>Headset</AssetType>
+    <Description>Noise-cancelling headset</Description>
+    <IssuedDate>2019-06-18</IssuedDate>
+    <ReturnedDate />
+  </Asset>
+  <Asset>
+    <AssetTag>AST-1002-3</AssetTag>
+    <AssetType>Laptop</AssetType>
+    <Description>14-inch business laptop</Description>
+    <IssuedDate>2019-06-19</IssuedDate>
+    <ReturnedDate />
+  </Asset>
+  <Timesheet>
+    <WeekStartDate>2026-06-01</WeekStartDate>
+    <Status>Submitted</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Entry>
+      <WorkDate>2026-06-01</WorkDate>
+      <ProjectCode>PRJ-1003</ProjectCode>
+      <ProjectName>HR Self-Service Portal</ProjectName>
+      <Task>Code review</Task>
+      <Hours>7.00</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-02</WorkDate>
+      <ProjectCode>PRJ-1002</ProjectCode>
+      <ProjectName>Data Warehouse Migration</ProjectName>
+      <Task>Development</Task>
+      <Hours>6.00</Hours>
+      <Notes />
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-03</WorkDate>
+      <ProjectCode>PRJ-1004</ProjectCode>
+      <ProjectName>Mobile App v2</ProjectName>
+      <Task>Planning</Task>
+      <Hours>8.00</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-04</WorkDate>
+      <ProjectCode>PRJ-1005</ProjectCode>
+      <ProjectName>Compliance Audit 2026</ProjectName>
+      <Task>Stakeholder meeting</Task>
+      <Hours>6.00</Hours>
+      <Notes />
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-05</WorkDate>
+      <ProjectCode>PRJ-1003</ProjectCode>
+      <ProjectName>HR Self-Service Portal</ProjectName>
+      <Task>Stakeholder meeting</Task>
+      <Hours>7.50</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+  </Timesheet>
+  <Timesheet>
+    <WeekStartDate>2026-06-08</WeekStartDate>
+    <Status>Submitted</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Entry>
+      <WorkDate>2026-06-08</WorkDate>
+      <ProjectCode>PRJ-9000</ProjectCode>
+      <ProjectName>Internal / Administration</ProjectName>
+      <Task>Training delivery</Task>
+      <Hours>7.00</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-09</WorkDate>
+      <ProjectCode>PRJ-1001</ProjectCode>
+      <ProjectName>Customer Portal Rebuild</ProjectName>
+      <Task>Testing</Task>
+      <Hours>8.50</Hours>
+      <Notes />
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-10</WorkDate>
+      <ProjectCode>PRJ-1005</ProjectCode>
+      <ProjectName>Compliance Audit 2026</ProjectName>
+      <Task>Documentation</Task>
+      <Hours>8.50</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-11</WorkDate>
+      <ProjectCode>PRJ-1003</ProjectCode>
+      <ProjectName>HR Self-Service Portal</ProjectName>
+      <Task>Testing</Task>
+      <Hours>8.50</Hours>
+      <Notes />
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-12</WorkDate>
+      <ProjectCode>PRJ-1002</ProjectCode>
+      <ProjectName>Data Warehouse Migration</ProjectName>
+      <Task>Code review</Task>
+      <Hours>7.50</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+  </Timesheet>
+  <Timesheet>
+    <WeekStartDate>2026-06-15</WeekStartDate>
+    <Status>Approved</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Entry>
+      <WorkDate>2026-06-15</WorkDate>
+      <ProjectCode>PRJ-1004</ProjectCode>
+      <ProjectName>Mobile App v2</ProjectName>
+      <Task>Stakeholder meeting</Task>
+      <Hours>6.00</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-16</WorkDate>
+      <ProjectCode>PRJ-9000</ProjectCode>
+      <ProjectName>Internal / Administration</ProjectName>
+      <Task>Development</Task>
+      <Hours>7.50</Hours>
+      <Notes />
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-17</WorkDate>
+      <ProjectCode>PRJ-9000</ProjectCode>
+      <ProjectName>Internal / Administration</ProjectName>
+      <Task>Stakeholder meeting</Task>
+      <Hours>6.00</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-18</WorkDate>
+      <ProjectCode>PRJ-1005</ProjectCode>
+      <ProjectName>Compliance Audit 2026</ProjectName>
+      <Task>Planning</Task>
+      <Hours>7.50</Hours>
+      <Notes />
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-19</WorkDate>
+      <ProjectCode>PRJ-1005</ProjectCode>
+      <ProjectName>Compliance Audit 2026</ProjectName>
+      <Task>Code review</Task>
+      <Hours>7.50</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+  </Timesheet>
+</Employee>

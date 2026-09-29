@@ -1,0 +1,380 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Employee>
+  <Demographics>
+    <EmployeeNo>1009</EmployeeNo>
+    <EmployeeCode>EMP-1009</EmployeeCode>
+    <Active>0</Active>
+    <Title>Mr</Title>
+    <FirstName>Omar</FirstName>
+    <MiddleName />
+    <LastName>Haddad</LastName>
+    <DateOfBirth>1984-06-16</DateOfBirth>
+    <Gender>Male</Gender>
+    <MaritalStatus>Married</MaritalStatus>
+    <Nationality>British</Nationality>
+    <NationalID>NID369417042</NationalID>
+    <PassportNo>P8481758</PassportNo>
+    <TaxID>TAX93490816</TaxID>
+    <BloodGroup>AB+</BloodGroup>
+    <Email>omar.haddad@example.com</Email>
+    <PersonalEmail>omar1009@mail.example.org</PersonalEmail>
+    <WorkPhone>+00 555 8692</WorkPhone>
+    <Mobile>+00 7403 428361</Mobile>
+    <HireDate>2017-09-04</HireDate>
+    <ProbationEndDate>2017-12-03</ProbationEndDate>
+    <TerminationDate>2026-06-30</TerminationDate>
+    <EmploymentType>Full-time</EmploymentType>
+    <Department>IT Services</Department>
+    <JobTitle>Systems Administrator</JobTitle>
+    <Grade>I4</Grade>
+    <ManagerEmployeeNo>1003</ManagerEmployeeNo>
+    <WorkLocation>London</WorkLocation>
+    <Status>Terminated</Status>
+  </Demographics>
+  <Address>
+    <AddressType>Home</AddressType>
+    <Line1>210 Rose Street</Line1>
+    <Line2>Unit 7</Line2>
+    <City>London</City>
+    <State>England</State>
+    <PostalCode>EC188</PostalCode>
+    <Country>United Kingdom</Country>
+    <IsPrimary>1</IsPrimary>
+  </Address>
+  <Address>
+    <AddressType>Postal</AddressType>
+    <Line1>PO Box 661</Line1>
+    <City>London</City>
+    <State>England</State>
+    <PostalCode>EC100</PostalCode>
+    <Country>United Kingdom</Country>
+    <IsPrimary>0</IsPrimary>
+  </Address>
+  <EmergencyContact>
+    <Name>Sam Haddad</Name>
+    <Relationship>Parent</Relationship>
+    <Phone1>+00 555 5824</Phone1>
+    <Phone2 />
+    <Email>contact10090@mail.example.org</Email>
+    <Address>London, United Kingdom</Address>
+  </EmergencyContact>
+  <Qualification>
+    <Degree>Master of Business Administration</Degree>
+    <FieldOfStudy>Management</FieldOfStudy>
+    <Institution>University of Sydney</Institution>
+    <YearCompleted>2006</YearCompleted>
+    <GradeOrScore>Distinction</GradeOrScore>
+  </Qualification>
+  <Qualification>
+    <Degree>Bachelor of Commerce</Degree>
+    <FieldOfStudy>Accounting</FieldOfStudy>
+    <Institution>University of Leeds</Institution>
+    <YearCompleted>2008</YearCompleted>
+    <GradeOrScore>2:1</GradeOrScore>
+  </Qualification>
+  <Qualification>
+    <Degree>Master of Business Administration</Degree>
+    <FieldOfStudy>Management</FieldOfStudy>
+    <Institution>University of Sydney</Institution>
+    <YearCompleted>2010</YearCompleted>
+    <GradeOrScore>GPA 3.8</GradeOrScore>
+  </Qualification>
+  <WorkHistory>
+    <Company>Hooli Digital</Company>
+    <JobTitle>Administrator</JobTitle>
+    <StartDate>2014-07-01</StartDate>
+    <EndDate>2017-05-15</EndDate>
+    <Responsibilities>Delivered it services objectives, worked with cross-functional teams &amp; reported to senior management.</Responsibilities>
+    <ReasonForLeaving>Career growth</ReasonForLeaving>
+  </WorkHistory>
+  <WorkHistory>
+    <Company>Initech Solutions</Company>
+    <JobTitle>Junior Administrator</JobTitle>
+    <StartDate>2011-04-18</StartDate>
+    <EndDate>2014-03-15</EndDate>
+    <Responsibilities>Delivered it services objectives, worked with cross-functional teams &amp; reported to senior management.</Responsibilities>
+    <ReasonForLeaving>Restructure</ReasonForLeaving>
+  </WorkHistory>
+  <Skill>
+    <SkillName>Networking</SkillName>
+    <Category>Infrastructure</Category>
+    <ProficiencyLevel>Intermediate</ProficiencyLevel>
+    <YearsExperience>6.6</YearsExperience>
+  </Skill>
+  <Skill>
+    <SkillName>PowerShell</SkillName>
+    <Category>Scripting</Category>
+    <ProficiencyLevel>Intermediate</ProficiencyLevel>
+    <YearsExperience>9.1</YearsExperience>
+  </Skill>
+  <Skill>
+    <SkillName>Active Directory</SkillName>
+    <Category>Infrastructure</Category>
+    <ProficiencyLevel>Intermediate</ProficiencyLevel>
+    <YearsExperience>4.3</YearsExperience>
+  </Skill>
+  <Skill>
+    <SkillName>Backup &amp; Recovery</SkillName>
+    <Category>Operations</Category>
+    <ProficiencyLevel>Advanced</ProficiencyLevel>
+    <YearsExperience>8.4</YearsExperience>
+  </Skill>
+  <Skill>
+    <SkillName>Windows Server</SkillName>
+    <Category>Infrastructure</Category>
+    <ProficiencyLevel>Intermediate</ProficiencyLevel>
+    <YearsExperience>5.9</YearsExperience>
+  </Skill>
+  <Certification>
+    <CertificationName>CompTIA Security+</CertificationName>
+    <IssuingBody>CompTIA</IssuingBody>
+    <IssueDate>2019-03-15</IssueDate>
+    <ExpiryDate>2022-03-14</ExpiryDate>
+    <CredentialID>CRD-873743</CredentialID>
+  </Certification>
+  <Certification>
+    <CertificationName>AWS Certified Solutions Architect</CertificationName>
+    <IssuingBody>Amazon Web Services</IssuingBody>
+    <IssueDate>2016-03-01</IssueDate>
+    <ExpiryDate>2019-03-01</ExpiryDate>
+    <CredentialID>CRD-938467</CredentialID>
+  </Certification>
+  <Certification>
+    <CertificationName>CPA</CertificationName>
+    <IssuingBody>CPA Australia</IssuingBody>
+    <IssueDate>2022-06-13</IssueDate>
+    <ExpiryDate>2025-06-12</ExpiryDate>
+    <CredentialID>CRD-638798</CredentialID>
+  </Certification>
+  <SalaryHistory>
+    <EffectiveDate>2017-09-04</EffectiveDate>
+    <BaseSalary>64780.00</BaseSalary>
+    <Currency>GBP</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus />
+    <Reason>Starting salary</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2018-07-01</EffectiveDate>
+    <BaseSalary>68464.17</BaseSalary>
+    <Currency>GBP</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>3423.21</Bonus>
+    <Reason>Promotion</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2019-07-01</EffectiveDate>
+    <BaseSalary>74065.97</BaseSalary>
+    <Currency>GBP</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>3703.30</Bonus>
+    <Reason>Annual review</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2020-07-01</EffectiveDate>
+    <BaseSalary>80672.74</BaseSalary>
+    <Currency>GBP</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>4033.64</Bonus>
+    <Reason>Market adjustment</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2021-07-01</EffectiveDate>
+    <BaseSalary>87456.77</BaseSalary>
+    <Currency>GBP</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>4372.84</Bonus>
+    <Reason>Market adjustment</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2022-07-01</EffectiveDate>
+    <BaseSalary>92203.79</BaseSalary>
+    <Currency>GBP</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>4610.19</Bonus>
+    <Reason>Market adjustment</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2023-07-01</EffectiveDate>
+    <BaseSalary>99723.30</BaseSalary>
+    <Currency>GBP</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>4986.17</Bonus>
+    <Reason>Market adjustment</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2024-07-01</EffectiveDate>
+    <BaseSalary>106235.36</BaseSalary>
+    <Currency>GBP</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>5311.77</Bonus>
+    <Reason>Promotion</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2025-07-01</EffectiveDate>
+    <BaseSalary>114475.18</BaseSalary>
+    <Currency>GBP</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>5723.76</Bonus>
+    <Reason>Market adjustment</Reason>
+  </SalaryHistory>
+  <Leave>
+    <LeaveType>Study</LeaveType>
+    <StartDate>2025-07-26</StartDate>
+    <EndDate>2025-08-04</EndDate>
+    <Days>10.0</Days>
+    <Status>Approved</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Reason>Exam preparation</Reason>
+  </Leave>
+  <Leave>
+    <LeaveType>Sick</LeaveType>
+    <StartDate>2024-12-30</StartDate>
+    <EndDate>2024-12-30</EndDate>
+    <Days>1.0</Days>
+    <Status>Approved</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Reason>Medical appointment</Reason>
+  </Leave>
+  <Leave>
+    <LeaveType>Bereavement</LeaveType>
+    <StartDate>2024-08-29</StartDate>
+    <EndDate>2024-08-30</EndDate>
+    <Days>2.0</Days>
+    <Status>Approved</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Reason>Family matter</Reason>
+  </Leave>
+  <Leave>
+    <LeaveType>Sick</LeaveType>
+    <StartDate>2025-05-17</StartDate>
+    <EndDate>2025-05-26</EndDate>
+    <Days>10.0</Days>
+    <Status>Approved</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Reason>Flu</Reason>
+  </Leave>
+  <Leave>
+    <LeaveType>Annual</LeaveType>
+    <StartDate>2025-04-29</StartDate>
+    <EndDate>2025-04-30</EndDate>
+    <Days>2.0</Days>
+    <Status>Approved</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Reason>Family holiday</Reason>
+  </Leave>
+  <PerformanceReview>
+    <ReviewPeriod>FY2018</ReviewPeriod>
+    <ReviewDate>2018-12-10</ReviewDate>
+    <Reviewer>Amelia Hart</Reviewer>
+    <Rating>3.9</Rating>
+    <Goals>Complete leadership training; own team OKRs</Goals>
+    <Comments>Consistently exceeds expectations and collaborates well.</Comments>
+  </PerformanceReview>
+  <PerformanceReview>
+    <ReviewPeriod>FY2019</ReviewPeriod>
+    <ReviewDate>2019-12-10</ReviewDate>
+    <Reviewer>Amelia Hart</Reviewer>
+    <Rating>4.0</Rating>
+    <Goals>Deliver Q4 roadmap; mentor two juniors</Goals>
+    <Comments>Consistently exceeds expectations and collaborates well.</Comments>
+  </PerformanceReview>
+  <PerformanceReview>
+    <ReviewPeriod>FY2020</ReviewPeriod>
+    <ReviewDate>2020-12-10</ReviewDate>
+    <Reviewer>Amelia Hart</Reviewer>
+    <Rating>3.3</Rating>
+    <Goals>Deliver Q4 roadmap; mentor two juniors</Goals>
+    <Comments>Great customer focus; improve documentation habits.</Comments>
+  </PerformanceReview>
+  <Training>
+    <CourseName>Leadership Essentials</CourseName>
+    <Provider>Dale Carnegie</Provider>
+    <CompletedDate>2021-04-11</CompletedDate>
+    <DurationHours>24.0</DurationHours>
+    <Cost>600.00</Cost>
+    <Result>Passed</Result>
+  </Training>
+  <Training>
+    <CourseName>Cloud Fundamentals</CourseName>
+    <Provider>Microsoft Learn</Provider>
+    <CompletedDate>2018-10-05</CompletedDate>
+    <DurationHours>12.0</DurationHours>
+    <Cost>0.00</Cost>
+    <Result>Passed</Result>
+  </Training>
+  <Training>
+    <CourseName>Excel for Analysts</CourseName>
+    <Provider>LinkedIn Learning</Provider>
+    <CompletedDate>2025-01-23</CompletedDate>
+    <DurationHours>10.0</DurationHours>
+    <Cost>150.00</Cost>
+    <Result>Passed</Result>
+  </Training>
+  <Asset>
+    <AssetTag>AST-1009-1</AssetTag>
+    <AssetType>Access Card</AssetType>
+    <Description>Building access card</Description>
+    <IssuedDate>2017-09-04</IssuedDate>
+    <ReturnedDate>2026-06-30</ReturnedDate>
+  </Asset>
+  <Asset>
+    <AssetTag>AST-1009-2</AssetTag>
+    <AssetType>Laptop</AssetType>
+    <Description>14-inch business laptop</Description>
+    <IssuedDate>2017-09-05</IssuedDate>
+    <ReturnedDate>2026-06-30</ReturnedDate>
+  </Asset>
+  <Asset>
+    <AssetTag>AST-1009-3</AssetTag>
+    <AssetType>Mobile Phone</AssetType>
+    <Description>Company smartphone</Description>
+    <IssuedDate>2017-09-06</IssuedDate>
+    <ReturnedDate>2026-06-30</ReturnedDate>
+  </Asset>
+  <Timesheet>
+    <WeekStartDate>2026-06-01</WeekStartDate>
+    <Status>Approved</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Entry>
+      <WorkDate>2026-06-01</WorkDate>
+      <ProjectCode>PRJ-1005</ProjectCode>
+      <ProjectName>Compliance Audit 2026</ProjectName>
+      <Task>Data analysis</Task>
+      <Hours>7.50</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-02</WorkDate>
+      <ProjectCode>PRJ-1005</ProjectCode>
+      <ProjectName>Compliance Audit 2026</ProjectName>
+      <Task>Stakeholder meeting</Task>
+      <Hours>6.00</Hours>
+      <Notes />
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-03</WorkDate>
+      <ProjectCode>PRJ-1001</ProjectCode>
+      <ProjectName>Customer Portal Rebuild</ProjectName>
+      <Task>Planning</Task>
+      <Hours>7.00</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-04</WorkDate>
+      <ProjectCode>PRJ-1002</ProjectCode>
+      <ProjectName>Data Warehouse Migration</ProjectName>
+      <Task>Data analysis</Task>
+      <Hours>8.00</Hours>
+      <Notes />
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-05</WorkDate>
+      <ProjectCode>PRJ-1001</ProjectCode>
+      <ProjectName>Customer Portal Rebuild</ProjectName>
+      <Task>Training delivery</Task>
+      <Hours>8.00</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+  </Timesheet>
+</Employee>

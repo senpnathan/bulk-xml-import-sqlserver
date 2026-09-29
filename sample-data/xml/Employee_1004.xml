@@ -1,0 +1,351 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Employee>
+  <Demographics>
+    <EmployeeNo>1004</EmployeeNo>
+    <EmployeeCode>EMP-1004</EmployeeCode>
+    <Active>1</Active>
+    <Title>Ms</Title>
+    <FirstName>Sarah</FirstName>
+    <MiddleName />
+    <LastName>O'Connor</LastName>
+    <DateOfBirth>1985-09-30</DateOfBirth>
+    <Gender>Female</Gender>
+    <MaritalStatus>Married</MaritalStatus>
+    <Nationality>Australian</Nationality>
+    <NationalID>NID900144583</NationalID>
+    <PassportNo>P7695356</PassportNo>
+    <TaxID>TAX58309143</TaxID>
+    <BloodGroup>B+</BloodGroup>
+    <Email>sarah.oconnor@example.com</Email>
+    <PersonalEmail>sarah1004@mail.example.org</PersonalEmail>
+    <WorkPhone>+00 555 5518</WorkPhone>
+    <Mobile>+00 7451 310742</Mobile>
+    <HireDate>2018-04-09</HireDate>
+    <ProbationEndDate>2018-07-08</ProbationEndDate>
+    <TerminationDate />
+    <EmploymentType>Full-time</EmploymentType>
+    <Department>Human Resources</Department>
+    <JobTitle>HR Manager</JobTitle>
+    <Grade>M3</Grade>
+    <ManagerEmployeeNo>1001</ManagerEmployeeNo>
+    <WorkLocation>Sydney</WorkLocation>
+    <Status>Active</Status>
+  </Demographics>
+  <Address>
+    <AddressType>Home</AddressType>
+    <Line1>96 Station Street</Line1>
+    <Line2 />
+    <City>Sydney</City>
+    <State>NSW</State>
+    <PostalCode>200068</PostalCode>
+    <Country>Australia</Country>
+    <IsPrimary>1</IsPrimary>
+  </Address>
+  <EmergencyContact>
+    <Name>Morgan O'Connor</Name>
+    <Relationship>Friend</Relationship>
+    <Phone1>+00 555 6114</Phone1>
+    <Phone2 />
+    <Email>contact10040@mail.example.org</Email>
+    <Address>Sydney, Australia</Address>
+  </EmergencyContact>
+  <EmergencyContact>
+    <Name>Sam O'Connor</Name>
+    <Relationship>Parent</Relationship>
+    <Phone1>+00 555 7726</Phone1>
+    <Phone2 />
+    <Email>contact10041@mail.example.org</Email>
+    <Address>Sydney, Australia</Address>
+  </EmergencyContact>
+  <Dependent>
+    <Name>Leo O'Connor</Name>
+    <Relationship>Child</Relationship>
+    <DateOfBirth>2012-12-13</DateOfBirth>
+    <Gender>Male</Gender>
+    <InsuranceCovered>1</InsuranceCovered>
+  </Dependent>
+  <Qualification>
+    <Degree>Bachelor of Commerce</Degree>
+    <FieldOfStudy>Accounting</FieldOfStudy>
+    <Institution>University of Leeds</Institution>
+    <YearCompleted>2007</YearCompleted>
+    <GradeOrScore>Distinction</GradeOrScore>
+  </Qualification>
+  <Qualification>
+    <Degree>Bachelor of Arts</Degree>
+    <FieldOfStudy>Communications</FieldOfStudy>
+    <Institution>Technical University of Berlin</Institution>
+    <YearCompleted>2009</YearCompleted>
+    <GradeOrScore>Distinction</GradeOrScore>
+  </Qualification>
+  <Qualification>
+    <Degree>Bachelor of Commerce</Degree>
+    <FieldOfStudy>Accounting</FieldOfStudy>
+    <Institution>University of Lisbon</Institution>
+    <YearCompleted>2011</YearCompleted>
+    <GradeOrScore>First Class</GradeOrScore>
+  </Qualification>
+  <WorkHistory>
+    <Company>Stark Logistics</Company>
+    <JobTitle>Manager</JobTitle>
+    <StartDate>2016-01-10</StartDate>
+    <EndDate>2018-01-01</EndDate>
+    <Responsibilities>Delivered human resources objectives, worked with cross-functional teams &amp; reported to senior management.</Responsibilities>
+    <ReasonForLeaving>Restructure</ReasonForLeaving>
+  </WorkHistory>
+  <Skill>
+    <SkillName>Onboarding</SkillName>
+    <Category>Talent</Category>
+    <ProficiencyLevel>Expert</ProficiencyLevel>
+    <YearsExperience>11.6</YearsExperience>
+  </Skill>
+  <Skill>
+    <SkillName>Recruitment</SkillName>
+    <Category>Talent</Category>
+    <ProficiencyLevel>Expert</ProficiencyLevel>
+    <YearsExperience>9.9</YearsExperience>
+  </Skill>
+  <Skill>
+    <SkillName>Employee Relations</SkillName>
+    <Category>People</Category>
+    <ProficiencyLevel>Expert</ProficiencyLevel>
+    <YearsExperience>2.7</YearsExperience>
+  </Skill>
+  <Skill>
+    <SkillName>Payroll</SkillName>
+    <Category>Operations</Category>
+    <ProficiencyLevel>Expert</ProficiencyLevel>
+    <YearsExperience>2.2</YearsExperience>
+  </Skill>
+  <Certification>
+    <CertificationName>Certified Scrum Master</CertificationName>
+    <IssuingBody>Scrum Alliance</IssuingBody>
+    <IssueDate>2020-02-04</IssueDate>
+    <ExpiryDate>2023-02-03</ExpiryDate>
+    <CredentialID>CRD-674085</CredentialID>
+  </Certification>
+  <SalaryHistory>
+    <EffectiveDate>2018-04-09</EffectiveDate>
+    <BaseSalary>80360.00</BaseSalary>
+    <Currency>AUD</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus />
+    <Reason>Starting salary</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2019-07-01</EffectiveDate>
+    <BaseSalary>84624.88</BaseSalary>
+    <Currency>AUD</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>4231.24</Bonus>
+    <Reason>Annual review</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2020-07-01</EffectiveDate>
+    <BaseSalary>91129.70</BaseSalary>
+    <Currency>AUD</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>4556.49</Bonus>
+    <Reason>Market adjustment</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2021-07-01</EffectiveDate>
+    <BaseSalary>98361.95</BaseSalary>
+    <Currency>AUD</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>4918.10</Bonus>
+    <Reason>Annual review</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2022-07-01</EffectiveDate>
+    <BaseSalary>106717.37</BaseSalary>
+    <Currency>AUD</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>5335.87</Bonus>
+    <Reason>Promotion</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2023-07-01</EffectiveDate>
+    <BaseSalary>113873.65</BaseSalary>
+    <Currency>AUD</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>5693.68</Bonus>
+    <Reason>Promotion</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2024-07-01</EffectiveDate>
+    <BaseSalary>119191.58</BaseSalary>
+    <Currency>AUD</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>5959.58</Bonus>
+    <Reason>Promotion</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2025-07-01</EffectiveDate>
+    <BaseSalary>125083.80</BaseSalary>
+    <Currency>AUD</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>6254.19</Bonus>
+    <Reason>Market adjustment</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2026-07-01</EffectiveDate>
+    <BaseSalary>134026.15</BaseSalary>
+    <Currency>AUD</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>6701.31</Bonus>
+    <Reason>Market adjustment</Reason>
+  </SalaryHistory>
+  <Leave>
+    <LeaveType>Sick</LeaveType>
+    <StartDate>2024-11-18</StartDate>
+    <EndDate>2024-11-27</EndDate>
+    <Days>10.0</Days>
+    <Status>Approved</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Reason>Flu</Reason>
+  </Leave>
+  <Leave>
+    <LeaveType>Study</LeaveType>
+    <StartDate>2024-06-16</StartDate>
+    <EndDate>2024-06-16</EndDate>
+    <Days>1.0</Days>
+    <Status>Approved</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Reason>Exam preparation</Reason>
+  </Leave>
+  <Leave>
+    <LeaveType>Annual</LeaveType>
+    <StartDate>2025-06-11</StartDate>
+    <EndDate>2025-06-11</EndDate>
+    <Days>1.0</Days>
+    <Status>Approved</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Reason>Long weekend</Reason>
+  </Leave>
+  <Leave>
+    <LeaveType>Annual</LeaveType>
+    <StartDate>2024-03-06</StartDate>
+    <EndDate>2024-03-08</EndDate>
+    <Days>3.0</Days>
+    <Status>Approved</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Reason>Family holiday</Reason>
+  </Leave>
+  <Leave>
+    <LeaveType>Sick</LeaveType>
+    <StartDate>2024-08-09</StartDate>
+    <EndDate>2024-08-18</EndDate>
+    <Days>10.0</Days>
+    <Status>Approved</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Reason>Medical appointment</Reason>
+  </Leave>
+  <PerformanceReview>
+    <ReviewPeriod>FY2019</ReviewPeriod>
+    <ReviewDate>2019-12-10</ReviewDate>
+    <Reviewer>Amelia Hart</Reviewer>
+    <Rating>4.1</Rating>
+    <Goals>Improve process cycle time by 15%</Goals>
+    <Comments>Solid performance; needs to delegate more.</Comments>
+  </PerformanceReview>
+  <PerformanceReview>
+    <ReviewPeriod>FY2020</ReviewPeriod>
+    <ReviewDate>2020-12-10</ReviewDate>
+    <Reviewer>Amelia Hart</Reviewer>
+    <Rating>3.0</Rating>
+    <Goals>Complete leadership training; own team OKRs</Goals>
+    <Comments>Great customer focus; improve documentation habits.</Comments>
+  </PerformanceReview>
+  <PerformanceReview>
+    <ReviewPeriod>FY2021</ReviewPeriod>
+    <ReviewDate>2021-12-10</ReviewDate>
+    <Reviewer>Amelia Hart</Reviewer>
+    <Rating>3.0</Rating>
+    <Goals>Deliver Q4 roadmap; mentor two juniors</Goals>
+    <Comments>Great customer focus; improve documentation habits.</Comments>
+  </PerformanceReview>
+  <Training>
+    <CourseName>Effective Communication</CourseName>
+    <Provider>Coursera</Provider>
+    <CompletedDate>2022-03-03</CompletedDate>
+    <DurationHours>8.0</DurationHours>
+    <Cost>320.00</Cost>
+    <Result>Passed</Result>
+  </Training>
+  <Training>
+    <CourseName>Workplace Health &amp; Safety</CourseName>
+    <Provider>Internal Academy</Provider>
+    <CompletedDate>2019-08-17</CompletedDate>
+    <DurationHours>3.0</DurationHours>
+    <Cost>45.00</Cost>
+    <Result>Passed</Result>
+  </Training>
+  <Training>
+    <CourseName>Advanced T-SQL Performance Tuning</CourseName>
+    <Provider>Pluralsight</Provider>
+    <CompletedDate>2025-12-07</CompletedDate>
+    <DurationHours>16.0</DurationHours>
+    <Cost>640.00</Cost>
+    <Result>Attended</Result>
+  </Training>
+  <Asset>
+    <AssetTag>AST-1004-1</AssetTag>
+    <AssetType>Laptop</AssetType>
+    <Description>14-inch business laptop</Description>
+    <IssuedDate>2018-04-09</IssuedDate>
+    <ReturnedDate />
+  </Asset>
+  <Asset>
+    <AssetTag>AST-1004-2</AssetTag>
+    <AssetType>Headset</AssetType>
+    <Description>Noise-cancelling headset</Description>
+    <IssuedDate>2018-04-10</IssuedDate>
+    <ReturnedDate />
+  </Asset>
+  <Timesheet>
+    <WeekStartDate>2026-06-01</WeekStartDate>
+    <Status>Approved</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Entry>
+      <WorkDate>2026-06-01</WorkDate>
+      <ProjectCode>PRJ-1003</ProjectCode>
+      <ProjectName>HR Self-Service Portal</ProjectName>
+      <Task>Testing</Task>
+      <Hours>7.00</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-02</WorkDate>
+      <ProjectCode>PRJ-1002</ProjectCode>
+      <ProjectName>Data Warehouse Migration</ProjectName>
+      <Task>Planning</Task>
+      <Hours>8.00</Hours>
+      <Notes />
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-03</WorkDate>
+      <ProjectCode>PRJ-1005</ProjectCode>
+      <ProjectName>Compliance Audit 2026</ProjectName>
+      <Task>Training delivery</Task>
+      <Hours>7.50</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-04</WorkDate>
+      <ProjectCode>PRJ-1003</ProjectCode>
+      <ProjectName>HR Self-Service Portal</ProjectName>
+      <Task>Data analysis</Task>
+      <Hours>8.00</Hours>
+      <Notes />
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-05</WorkDate>
+      <ProjectCode>PRJ-1003</ProjectCode>
+      <ProjectName>HR Self-Service Portal</ProjectName>
+      <Task>Stakeholder meeting</Task>
+      <Hours>7.00</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+  </Timesheet>
+</Employee>

@@ -1,0 +1,384 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Employee>
+  <Demographics>
+    <EmployeeNo>1008</EmployeeNo>
+    <EmployeeCode>EMP-1008</EmployeeCode>
+    <Active>1</Active>
+    <Title>Ms</Title>
+    <FirstName>Zoë</FirstName>
+    <MiddleName />
+    <LastName>Williams</LastName>
+    <DateOfBirth>1996-04-27</DateOfBirth>
+    <Gender>Female</Gender>
+    <MaritalStatus>Single</MaritalStatus>
+    <Nationality>Portuguese</Nationality>
+    <NationalID>NID816201598</NationalID>
+    <PassportNo />
+    <TaxID>TAX14774607</TaxID>
+    <BloodGroup>O+</BloodGroup>
+    <Email>zoe.williams@example.com</Email>
+    <PersonalEmail>zoe1008@mail.example.org</PersonalEmail>
+    <WorkPhone>+00 555 8650</WorkPhone>
+    <Mobile>+00 7961 640529</Mobile>
+    <HireDate>2024-02-05</HireDate>
+    <ProbationEndDate>2024-05-05</ProbationEndDate>
+    <TerminationDate />
+    <EmploymentType>Contract</EmploymentType>
+    <Department>Customer Support</Department>
+    <JobTitle>Support Specialist</JobTitle>
+    <Grade>C2</Grade>
+    <ManagerEmployeeNo>1004</ManagerEmployeeNo>
+    <WorkLocation>Remote</WorkLocation>
+    <Status>Active</Status>
+  </Demographics>
+  <Address>
+    <AddressType>Home</AddressType>
+    <Line1>162 Park Street</Line1>
+    <Line2 />
+    <City>Lisbon</City>
+    <State />
+    <PostalCode>100034</PostalCode>
+    <Country>Portugal</Country>
+    <IsPrimary>1</IsPrimary>
+  </Address>
+  <EmergencyContact>
+    <Name>Alex Williams</Name>
+    <Relationship>Sibling</Relationship>
+    <Phone1>+00 555 2492</Phone1>
+    <Phone2 />
+    <Email>contact10080@mail.example.org</Email>
+    <Address>Lisbon, Portugal</Address>
+  </EmergencyContact>
+  <EmergencyContact>
+    <Name>Sam Williams</Name>
+    <Relationship>Spouse</Relationship>
+    <Phone1>+00 555 5573</Phone1>
+    <Phone2 />
+    <Email>contact10081@mail.example.org</Email>
+    <Address>Lisbon, Portugal</Address>
+  </EmergencyContact>
+  <Qualification>
+    <Degree>Bachelor of Science</Degree>
+    <FieldOfStudy>Computer Science</FieldOfStudy>
+    <Institution>University of Toronto</Institution>
+    <YearCompleted>2018</YearCompleted>
+    <GradeOrScore>GPA 3.8</GradeOrScore>
+  </Qualification>
+  <WorkHistory>
+    <Company>Initech Solutions</Company>
+    <JobTitle>Specialist</JobTitle>
+    <StartDate>2021-04-24</StartDate>
+    <EndDate>2024-01-01</EndDate>
+    <Responsibilities>Delivered customer support objectives, worked with cross-functional teams &amp; reported to senior management.</Responsibilities>
+    <ReasonForLeaving>New role</ReasonForLeaving>
+  </WorkHistory>
+  <WorkHistory>
+    <Company>Umbrella Retail</Company>
+    <JobTitle>Junior Specialist</JobTitle>
+    <StartDate>2017-07-30</StartDate>
+    <EndDate>2020-12-26</EndDate>
+    <Responsibilities>Delivered customer support objectives, worked with cross-functional teams &amp; reported to senior management.</Responsibilities>
+    <ReasonForLeaving>Career growth</ReasonForLeaving>
+  </WorkHistory>
+  <WorkHistory>
+    <Company>Umbrella Retail</Company>
+    <JobTitle>Junior Specialist</JobTitle>
+    <StartDate>2014-02-26</StartDate>
+    <EndDate>2017-04-21</EndDate>
+    <Responsibilities>Delivered customer support objectives, worked with cross-functional teams &amp; reported to senior management.</Responsibilities>
+    <ReasonForLeaving>Restructure</ReasonForLeaving>
+  </WorkHistory>
+  <Skill>
+    <SkillName>Troubleshooting</SkillName>
+    <Category>Support</Category>
+    <ProficiencyLevel>Intermediate</ProficiencyLevel>
+    <YearsExperience>6.9</YearsExperience>
+  </Skill>
+  <Skill>
+    <SkillName>SLA Management</SkillName>
+    <Category>Operations</Category>
+    <ProficiencyLevel>Advanced</ProficiencyLevel>
+    <YearsExperience>2.0</YearsExperience>
+  </Skill>
+  <Skill>
+    <SkillName>Zendesk</SkillName>
+    <Category>Tools</Category>
+    <ProficiencyLevel>Intermediate</ProficiencyLevel>
+    <YearsExperience>1.2</YearsExperience>
+  </Skill>
+  <Skill>
+    <SkillName>Communication</SkillName>
+    <Category>Soft skills</Category>
+    <ProficiencyLevel>Advanced</ProficiencyLevel>
+    <YearsExperience>7.1</YearsExperience>
+  </Skill>
+  <Certification>
+    <CertificationName>PMP</CertificationName>
+    <IssuingBody>Project Management Institute</IssuingBody>
+    <IssueDate>2023-02-07</IssueDate>
+    <ExpiryDate />
+    <CredentialID>CRD-686336</CredentialID>
+  </Certification>
+  <Certification>
+    <CertificationName>Google Analytics Certification</CertificationName>
+    <IssuingBody>Google</IssuingBody>
+    <IssueDate>2023-04-19</IssueDate>
+    <ExpiryDate>2026-04-18</ExpiryDate>
+    <CredentialID>CRD-629371</CredentialID>
+  </Certification>
+  <Certification>
+    <CertificationName>Microsoft Certified: Azure Administrator</CertificationName>
+    <IssuingBody>Microsoft</IssuingBody>
+    <IssueDate>2026-06-02</IssueDate>
+    <ExpiryDate>2029-06-01</ExpiryDate>
+    <CredentialID>CRD-453466</CredentialID>
+  </Certification>
+  <SalaryHistory>
+    <EffectiveDate>2024-02-05</EffectiveDate>
+    <BaseSalary>42640.00</BaseSalary>
+    <Currency>USD</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus />
+    <Reason>Starting salary</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2025-07-01</EffectiveDate>
+    <BaseSalary>45198.04</BaseSalary>
+    <Currency>USD</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>2259.90</Bonus>
+    <Reason>Market adjustment</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2026-07-01</EffectiveDate>
+    <BaseSalary>48487.50</BaseSalary>
+    <Currency>USD</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>2424.38</Bonus>
+    <Reason>Promotion</Reason>
+  </SalaryHistory>
+  <Leave>
+    <LeaveType>Annual</LeaveType>
+    <StartDate>2026-05-27</StartDate>
+    <EndDate>2026-05-31</EndDate>
+    <Days>5.0</Days>
+    <Status>Pending</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Reason>Family holiday</Reason>
+  </Leave>
+  <Leave>
+    <LeaveType>Bereavement</LeaveType>
+    <StartDate>2024-07-06</StartDate>
+    <EndDate>2024-07-08</EndDate>
+    <Days>3.0</Days>
+    <Status>Approved</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Reason>Family matter</Reason>
+  </Leave>
+  <Leave>
+    <LeaveType>Annual</LeaveType>
+    <StartDate>2025-06-25</StartDate>
+    <EndDate>2025-07-04</EndDate>
+    <Days>10.0</Days>
+    <Status>Approved</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Reason>Long weekend</Reason>
+  </Leave>
+  <Leave>
+    <LeaveType>Study</LeaveType>
+    <StartDate>2024-06-26</StartDate>
+    <EndDate>2024-06-26</EndDate>
+    <Days>1.0</Days>
+    <Status>Approved</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Reason>Exam preparation</Reason>
+  </Leave>
+  <PerformanceReview>
+    <ReviewPeriod>FY2025</ReviewPeriod>
+    <ReviewDate>2025-12-10</ReviewDate>
+    <Reviewer>Amelia Hart</Reviewer>
+    <Rating>3.0</Rating>
+    <Goals>Reduce ticket backlog by 20%</Goals>
+    <Comments>Great customer focus; improve documentation habits.</Comments>
+  </PerformanceReview>
+  <Training>
+    <CourseName>Workplace Health &amp; Safety</CourseName>
+    <Provider>Internal Academy</Provider>
+    <CompletedDate>2026-01-03</CompletedDate>
+    <DurationHours>3.0</DurationHours>
+    <Cost>0.00</Cost>
+    <Result>Attended</Result>
+  </Training>
+  <Training>
+    <CourseName>Advanced T-SQL Performance Tuning</CourseName>
+    <Provider>Pluralsight</Provider>
+    <CompletedDate>2024-10-20</CompletedDate>
+    <DurationHours>16.0</DurationHours>
+    <Cost>240.00</Cost>
+    <Result>Passed</Result>
+  </Training>
+  <Training>
+    <CourseName>Excel for Analysts</CourseName>
+    <Provider>LinkedIn Learning</Provider>
+    <CompletedDate>2025-02-25</CompletedDate>
+    <DurationHours>10.0</DurationHours>
+    <Cost>150.00</Cost>
+    <Result>Passed</Result>
+  </Training>
+  <Asset>
+    <AssetTag>AST-1008-1</AssetTag>
+    <AssetType>Headset</AssetType>
+    <Description>Noise-cancelling headset</Description>
+    <IssuedDate>2024-02-05</IssuedDate>
+    <ReturnedDate />
+  </Asset>
+  <Asset>
+    <AssetTag>AST-1008-2</AssetTag>
+    <AssetType>Monitor</AssetType>
+    <Description>27-inch 4K monitor</Description>
+    <IssuedDate>2024-02-06</IssuedDate>
+    <ReturnedDate />
+  </Asset>
+  <Asset>
+    <AssetTag>AST-1008-3</AssetTag>
+    <AssetType>Access Card</AssetType>
+    <Description>Building access card</Description>
+    <IssuedDate>2024-02-07</IssuedDate>
+    <ReturnedDate />
+  </Asset>
+  <Timesheet>
+    <WeekStartDate>2026-06-01</WeekStartDate>
+    <Status>Submitted</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Entry>
+      <WorkDate>2026-06-01</WorkDate>
+      <ProjectCode>PRJ-1001</ProjectCode>
+      <ProjectName>Customer Portal Rebuild</ProjectName>
+      <Task>Development</Task>
+      <Hours>7.50</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-02</WorkDate>
+      <ProjectCode>PRJ-9000</ProjectCode>
+      <ProjectName>Internal / Administration</ProjectName>
+      <Task>Stakeholder meeting</Task>
+      <Hours>8.00</Hours>
+      <Notes />
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-03</WorkDate>
+      <ProjectCode>PRJ-1005</ProjectCode>
+      <ProjectName>Compliance Audit 2026</ProjectName>
+      <Task>Code review</Task>
+      <Hours>7.00</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-04</WorkDate>
+      <ProjectCode>PRJ-9000</ProjectCode>
+      <ProjectName>Internal / Administration</ProjectName>
+      <Task>Data analysis</Task>
+      <Hours>7.00</Hours>
+      <Notes />
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-05</WorkDate>
+      <ProjectCode>PRJ-1005</ProjectCode>
+      <ProjectName>Compliance Audit 2026</ProjectName>
+      <Task>Training delivery</Task>
+      <Hours>8.00</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+  </Timesheet>
+  <Timesheet>
+    <WeekStartDate>2026-06-08</WeekStartDate>
+    <Status>Approved</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Entry>
+      <WorkDate>2026-06-08</WorkDate>
+      <ProjectCode>PRJ-1001</ProjectCode>
+      <ProjectName>Customer Portal Rebuild</ProjectName>
+      <Task>Stakeholder meeting</Task>
+      <Hours>6.00</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-09</WorkDate>
+      <ProjectCode>PRJ-1005</ProjectCode>
+      <ProjectName>Compliance Audit 2026</ProjectName>
+      <Task>Training delivery</Task>
+      <Hours>7.50</Hours>
+      <Notes />
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-10</WorkDate>
+      <ProjectCode>PRJ-1002</ProjectCode>
+      <ProjectName>Data Warehouse Migration</ProjectName>
+      <Task>Support tickets</Task>
+      <Hours>7.50</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-11</WorkDate>
+      <ProjectCode>PRJ-1001</ProjectCode>
+      <ProjectName>Customer Portal Rebuild</ProjectName>
+      <Task>Data analysis</Task>
+      <Hours>8.50</Hours>
+      <Notes />
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-12</WorkDate>
+      <ProjectCode>PRJ-1003</ProjectCode>
+      <ProjectName>HR Self-Service Portal</ProjectName>
+      <Task>Stakeholder meeting</Task>
+      <Hours>8.00</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+  </Timesheet>
+  <Timesheet>
+    <WeekStartDate>2026-06-15</WeekStartDate>
+    <Status>Submitted</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Entry>
+      <WorkDate>2026-06-15</WorkDate>
+      <ProjectCode>PRJ-9000</ProjectCode>
+      <ProjectName>Internal / Administration</ProjectName>
+      <Task>Development</Task>
+      <Hours>8.00</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-16</WorkDate>
+      <ProjectCode>PRJ-1005</ProjectCode>
+      <ProjectName>Compliance Audit 2026</ProjectName>
+      <Task>Code review</Task>
+      <Hours>6.00</Hours>
+      <Notes />
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-17</WorkDate>
+      <ProjectCode>PRJ-1002</ProjectCode>
+      <ProjectName>Data Warehouse Migration</ProjectName>
+      <Task>Planning</Task>
+      <Hours>8.00</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-18</WorkDate>
+      <ProjectCode>PRJ-1001</ProjectCode>
+      <ProjectName>Customer Portal Rebuild</ProjectName>
+      <Task>Support tickets</Task>
+      <Hours>7.50</Hours>
+      <Notes />
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-19</WorkDate>
+      <ProjectCode>PRJ-1004</ProjectCode>
+      <ProjectName>Mobile App v2</ProjectName>
+      <Task>Data analysis</Task>
+      <Hours>7.50</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+  </Timesheet>
+</Employee>

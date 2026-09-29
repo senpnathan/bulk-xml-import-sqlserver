@@ -1,0 +1,241 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Employee>
+  <Demographics>
+    <EmployeeNo>1010</EmployeeNo>
+    <EmployeeCode>EMP-1010</EmployeeCode>
+    <Active>1</Active>
+    <Title>Ms</Title>
+    <FirstName>Grace</FirstName>
+    <MiddleName />
+    <LastName>Kim</LastName>
+    <DateOfBirth>2000-08-12</DateOfBirth>
+    <Gender>Female</Gender>
+    <MaritalStatus>Single</MaritalStatus>
+    <Nationality>Australian</Nationality>
+    <NationalID>NID909158028</NationalID>
+    <PassportNo>P3196827</PassportNo>
+    <TaxID>TAX22235928</TaxID>
+    <BloodGroup>A+</BloodGroup>
+    <Email>grace.kim@example.com</Email>
+    <PersonalEmail>grace1010@mail.example.org</PersonalEmail>
+    <WorkPhone>+00 555 8598</WorkPhone>
+    <Mobile>+00 7533 165760</Mobile>
+    <HireDate>2025-07-21</HireDate>
+    <ProbationEndDate>2025-10-19</ProbationEndDate>
+    <TerminationDate />
+    <EmploymentType>Full-time</EmploymentType>
+    <Department>Data &amp; Analytics</Department>
+    <JobTitle>Junior Data Analyst</JobTitle>
+    <Grade>D1</Grade>
+    <ManagerEmployeeNo>1005</ManagerEmployeeNo>
+    <WorkLocation>Sydney</WorkLocation>
+    <Status>Active</Status>
+  </Demographics>
+  <Address>
+    <AddressType>Home</AddressType>
+    <Line1>114 Oak Street</Line1>
+    <Line2 />
+    <City>Sydney</City>
+    <State>NSW</State>
+    <PostalCode>200017</PostalCode>
+    <Country>Australia</Country>
+    <IsPrimary>1</IsPrimary>
+  </Address>
+  <EmergencyContact>
+    <Name>Taylor Kim</Name>
+    <Relationship>Sibling</Relationship>
+    <Phone1>+00 555 2614</Phone1>
+    <Phone2 />
+    <Email>contact10100@mail.example.org</Email>
+    <Address>Sydney, Australia</Address>
+  </EmergencyContact>
+  <EmergencyContact>
+    <Name>Alex Kim</Name>
+    <Relationship>Friend</Relationship>
+    <Phone1>+00 555 3972</Phone1>
+    <Phone2 />
+    <Email>contact10101@mail.example.org</Email>
+    <Address>Sydney, Australia</Address>
+  </EmergencyContact>
+  <Qualification>
+    <Degree>Diploma</Degree>
+    <FieldOfStudy>Business Administration</FieldOfStudy>
+    <Institution>University of Leeds</Institution>
+    <YearCompleted>2022</YearCompleted>
+    <GradeOrScore>Distinction</GradeOrScore>
+  </Qualification>
+  <Qualification>
+    <Degree>Diploma</Degree>
+    <FieldOfStudy>Business Administration</FieldOfStudy>
+    <Institution>Technical University of Berlin</Institution>
+    <YearCompleted>2024</YearCompleted>
+    <GradeOrScore>GPA 3.8</GradeOrScore>
+  </Qualification>
+  <Skill>
+    <SkillName>Statistics</SkillName>
+    <Category>Analysis</Category>
+    <ProficiencyLevel>Intermediate</ProficiencyLevel>
+    <YearsExperience>1.1</YearsExperience>
+  </Skill>
+  <Skill>
+    <SkillName>SQL</SkillName>
+    <Category>Database</Category>
+    <ProficiencyLevel>Intermediate</ProficiencyLevel>
+    <YearsExperience>7.6</YearsExperience>
+  </Skill>
+  <Skill>
+    <SkillName>Python</SkillName>
+    <Category>Programming</Category>
+    <ProficiencyLevel>Advanced</ProficiencyLevel>
+    <YearsExperience>3.8</YearsExperience>
+  </Skill>
+  <Certification>
+    <CertificationName>Microsoft Certified: Azure Administrator</CertificationName>
+    <IssuingBody>Microsoft</IssuingBody>
+    <IssueDate>2024-01-23</IssueDate>
+    <ExpiryDate>2027-01-22</ExpiryDate>
+    <CredentialID>CRD-530431</CredentialID>
+  </Certification>
+  <Certification>
+    <CertificationName>CIPD Level 5</CertificationName>
+    <IssuingBody>CIPD</IssuingBody>
+    <IssueDate>2024-02-06</IssueDate>
+    <ExpiryDate>2027-02-05</ExpiryDate>
+    <CredentialID>CRD-705937</CredentialID>
+  </Certification>
+  <Certification>
+    <CertificationName>PMP</CertificationName>
+    <IssuingBody>Project Management Institute</IssuingBody>
+    <IssueDate>2025-02-12</IssueDate>
+    <ExpiryDate />
+    <CredentialID>CRD-434665</CredentialID>
+  </Certification>
+  <SalaryHistory>
+    <EffectiveDate>2025-07-21</EffectiveDate>
+    <BaseSalary>50840.00</BaseSalary>
+    <Currency>AUD</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus />
+    <Reason>Starting salary</Reason>
+  </SalaryHistory>
+  <SalaryHistory>
+    <EffectiveDate>2026-07-01</EffectiveDate>
+    <BaseSalary>53958.84</BaseSalary>
+    <Currency>AUD</Currency>
+    <PayFrequency>Annual</PayFrequency>
+    <Bonus>2697.94</Bonus>
+    <Reason>Market adjustment</Reason>
+  </SalaryHistory>
+  <Leave>
+    <LeaveType>Annual</LeaveType>
+    <StartDate>2026-04-17</StartDate>
+    <EndDate>2026-04-21</EndDate>
+    <Days>5.0</Days>
+    <Status>Approved</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Reason>Long weekend</Reason>
+  </Leave>
+  <Leave>
+    <LeaveType>Bereavement</LeaveType>
+    <StartDate>2025-08-07</StartDate>
+    <EndDate>2025-08-16</EndDate>
+    <Days>10.0</Days>
+    <Status>Pending</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Reason>Family matter</Reason>
+  </Leave>
+  <Leave>
+    <LeaveType>Study</LeaveType>
+    <StartDate>2025-11-26</StartDate>
+    <EndDate>2025-12-05</EndDate>
+    <Days>10.0</Days>
+    <Status>Approved</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Reason>Exam preparation</Reason>
+  </Leave>
+  <Leave>
+    <LeaveType>Unpaid</LeaveType>
+    <StartDate>2025-12-16</StartDate>
+    <EndDate>2025-12-20</EndDate>
+    <Days>5.0</Days>
+    <Status>Pending</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Reason>Personal travel</Reason>
+  </Leave>
+  <Training>
+    <CourseName>Cloud Fundamentals</CourseName>
+    <Provider>Microsoft Learn</Provider>
+    <CompletedDate>2026-05-19</CompletedDate>
+    <DurationHours>12.0</DurationHours>
+    <Cost>480.00</Cost>
+    <Result>Passed</Result>
+  </Training>
+  <Training>
+    <CourseName>Workplace Health &amp; Safety</CourseName>
+    <Provider>Internal Academy</Provider>
+    <CompletedDate>2026-01-20</CompletedDate>
+    <DurationHours>3.0</DurationHours>
+    <Cost>75.00</Cost>
+    <Result>Passed</Result>
+  </Training>
+  <Training>
+    <CourseName>Agile Project Delivery</CourseName>
+    <Provider>Scrum.org</Provider>
+    <CompletedDate>2025-12-27</CompletedDate>
+    <DurationHours>16.0</DurationHours>
+    <Cost>0.00</Cost>
+    <Result>Attended</Result>
+  </Training>
+  <Asset>
+    <AssetTag>AST-1010-1</AssetTag>
+    <AssetType>Laptop</AssetType>
+    <Description>14-inch business laptop</Description>
+    <IssuedDate>2025-07-21</IssuedDate>
+    <ReturnedDate />
+  </Asset>
+  <Timesheet>
+    <WeekStartDate>2026-06-01</WeekStartDate>
+    <Status>Submitted</Status>
+    <ApprovedBy>Amelia Hart</ApprovedBy>
+    <Entry>
+      <WorkDate>2026-06-01</WorkDate>
+      <ProjectCode>PRJ-1005</ProjectCode>
+      <ProjectName>Compliance Audit 2026</ProjectName>
+      <Task>Planning</Task>
+      <Hours>7.50</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-02</WorkDate>
+      <ProjectCode>PRJ-9000</ProjectCode>
+      <ProjectName>Internal / Administration</ProjectName>
+      <Task>Code review</Task>
+      <Hours>7.50</Hours>
+      <Notes />
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-03</WorkDate>
+      <ProjectCode>PRJ-1004</ProjectCode>
+      <ProjectName>Mobile App v2</ProjectName>
+      <Task>Support tickets</Task>
+      <Hours>8.50</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-04</WorkDate>
+      <ProjectCode>PRJ-1004</ProjectCode>
+      <ProjectName>Mobile App v2</ProjectName>
+      <Task>Support tickets</Task>
+      <Hours>6.00</Hours>
+      <Notes />
+    </Entry>
+    <Entry>
+      <WorkDate>2026-06-05</WorkDate>
+      <ProjectCode>PRJ-1003</ProjectCode>
+      <ProjectName>HR Self-Service Portal</ProjectName>
+      <Task>Support tickets</Task>
+      <Hours>8.00</Hours>
+      <Notes>R&amp;D &lt;internal&gt; work</Notes>
+    </Entry>
+  </Timesheet>
+</Employee>
